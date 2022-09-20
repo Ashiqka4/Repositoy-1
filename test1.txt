@@ -1,0 +1,10 @@
+ Volume in drive H is New Volume
+ Volume Serial Number is 56C8-A0C6
+
+ Directory of H:\MyProject
+
+09/20/2022  07:52 PM    <DIR>          .
+09/20/2022  07:52 PM    <DIR>          ..
+09/20/2022  07:52 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  237,266,436,096 bytes free
